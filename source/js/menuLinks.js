@@ -1,4 +1,4 @@
-//scroll to link smooth
+//Smooth Scrolling
 $(document).ready(function(){
     var $links = $('.main-navigation a');
     
