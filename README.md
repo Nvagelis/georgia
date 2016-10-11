@@ -1,11 +1,15 @@
 # georgia
-css jquery
 
+<br>
+<img src="https://github.com/Nvagelis/georgia/blob/master/screenshot.png">
+## Installing
 
+* clone repository
+* <b>start file:</b> /public-html/index.html
 
-- clone
+## Build With
 
-- bower install
-
-- run index.html
+* html
+* css
+* jQuery
 
